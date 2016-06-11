@@ -1,6 +1,8 @@
 # Mastermind
-[Example](http://i.imgur.com/0w8Jm25.png)
+A simple, console-based, implementation of the game Mastermind
+![Example](http://i.imgur.com/0w8Jm25.png)
 
+##Description
 Mastermind is a game where a player acts as a "code-breaker", trying to guess a secret code chosen by the computer.
 By default the code is 4 digits long, composed of the numbers 1 to 6, and the player will have 10 guesses to get it right.
 
