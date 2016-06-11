@@ -6,6 +6,8 @@ A simple, console-based, implementation of the game Mastermind
 Mastermind is a game where a player acts as a "code-breaker", trying to guess a secret code chosen by the computer.
 By default the code is 4 digits long, composed of the numbers 1 to 6, and the player will have 10 guesses to get it right.
 
+After each guess, a series of `+` and `-` symbols will be displayed. Each `-` represents a number correct number guessed, but in the wrong position. Each `+` represents a number guessed in the correct position.
+
 ##Settings
 The default settings can be overridden by providing several optional arguments when launching the game:
 ```
